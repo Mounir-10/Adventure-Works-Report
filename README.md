@@ -3,7 +3,7 @@
 - Order Analysis: Tracks total orders, order details, and order trends over time.
 -  Product Analysis: Breaks down sales by product categories and subcategories, highlighting top-performing products. 
 - Salesperson Analysis: Evaluates individual sales performance, showcasing top salespeople and their contributions.
-- 
+
 ![Overall Analysis](https://github.com/user-attachments/assets/9e08c00d-1371-49a0-b1ea-f7ff180de03c)
 
 ![Product Sales Analysis](https://github.com/user-attachments/assets/8a80606e-5e9b-442b-9681-73db08040f99)
